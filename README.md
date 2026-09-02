@@ -1,94 +1,130 @@
-# Hi, I'm Mohammad Hussain Khan 👋
+<!-- ======================= HEADER ======================= -->
 
-### Backend Software Engineer in the making | Python • C • JavaScript • AI
+<div align="center">
 
-I'm a B.Com student building my career in software development through
-self-learning, real-world projects, internships, and continuous practice.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:1e3a8a&height=220&section=header&text=Mohammad%20Hussain%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-I started exploring computers from a young age, and today I'm focused on
-turning that long-term interest into practical software engineering skills.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer+in+the+making;Python+%7C+C+%7C+JavaScript+%7C+AI;Building+Software+%7C+Learning+Computer+Science;Turning+Ideas+into+Real+Projects+%F0%9F%9A%80" />
 
-## 🚀 What I'm Focused On
+<br/><br/>
 
-- 🐍 Python & Backend Development
-- 💻 C Programming & Computer Science fundamentals
-- 🌐 Web Development
-- 🤖 Artificial Intelligence & Generative AI
-- 🗄️ Databases & APIs
-- 🔧 Building practical software projects
+<a href="https://github.com/mrhussainkhan2005-alt">
+<img src="https://img.shields.io/github/followers/mrhussainkhan2005-alt?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1e3a8a"/>
+</a>
 
----
+<a href="https://github.com/mrhussainkhan2005-alt?tab=repositories">
+<img src="https://img.shields.io/github/stars/mrhussainkhan2005-alt?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=2563eb"/>
+</a>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` `C` `Java` `JavaScript`
-
-**Web**
-
-`HTML` `CSS` `JavaScript`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Figma`
-
-**Currently Learning**
-
-`CS50x` `Backend Development` `AI` `Databases`
+</div>
 
 ---
 
-## 📌 Featured Projects
+<!-- ======================= ABOUT ======================= -->
 
-### 🚀 CS50x Final Project
-A practical software project built as part of Harvard's CS50x course.
+## 👨‍💻 About Me
 
-### 🌐 NayePankh Foundation
-Modern NGO website built with HTML, CSS and JavaScript.
+<table>
+<tr>
+<td width="55%">
 
-### 💻 She Can Foundation
-Frontend development project created during my software development internship.
+### Hey, I'm Hussain 👋
 
-> More projects are currently in development.
+I'm a **B.Com student** building my career in **Software Engineering** through self-learning, projects, internships and practical development.
 
----
+My journey started with a simple interest in computers and gradually turned into a serious goal of becoming a **Backend Software Engineer specializing in AI**.
 
-## 🎯 Career Goal
+I enjoy understanding how software works behind the scenes — from programming and APIs to databases and AI systems.
 
-**Backend Software Engineer → AI-focused Software Engineer**
+</td>
 
-I'm working toward building strong foundations in computer science,
-backend engineering, software development, and artificial intelligence.
-
----
-
-## 📚 Currently Learning
-
-🎓 Harvard CS50x  
-🐍 Python  
-⚙️ Backend Development  
-🤖 Artificial Intelligence  
-🗄️ Databases  
-🔗 APIs & Software Architecture  
-
----
-
-## 📈 My Development Journey
+<td width="45%">
 
 ```text
-B.Com
-  ↓
+┌─────────────────────────────┐
+│       CURRENT MISSION       │
+├─────────────────────────────┤
+│                             │
+│  🎯 Backend Engineering     │
+│  🤖 Artificial Intelligence │
+│  🐍 Python                  │
+│  💾 Databases               │
+│  🔗 APIs                    │
+│  🧠 Computer Science        │
+│                             │
+└─────────────────────────────┘
 CS50x
-  ↓
-Programming Fundamentals
-  ↓
-Backend Development
-  ↓
-Real-world Projects
-  ↓
-AI & Software Engineering
-  ↓
-Backend Software Engineer
+  │
+  ├── C Programming
+  ├── Algorithms & Data Structures
+  ├── Memory & Pointers
+  ├── SQL & Databases
+  ├── Web Development
+  │
+  ▼
+Python
+  │
+  ▼
+Backend Engineering
+  │
+  ├── APIs
+  ├── Databases
+  ├── Authentication
+  └── System Design
+  │
+  ▼
+Artificial Intelligence
+  │
+  ├── Generative AI
+  ├── RAG
+  ├── AI Agents
+  └── AI-powered Applications
+
+                 SOFTWARE ENGINEERING
+                         │
+                         ▼
+                ┌─────────────────┐
+                │     CS50x       │
+                │ Computer Science│
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │     Python      │
+                │ Programming    │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │ Backend Systems │
+                │ APIs + Databases│
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │ Real Projects   │
+                │ + Experience    │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │ Artificial      │
+                │ Intelligence    │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │ AI Software     │
+                │ Engineering     │
+                └─────────────────┘
+
+🎓 Education       : B.Com
+💻 Career Path     : Software Engineering
+🎯 Target Role     : Backend Software Engineer
+🤖 Specialization  : Artificial Intelligence
+📚 Current Course  : CS50x
+🐍 Main Language   : Python
+⚙️ Backend Focus   : APIs + Databases
+🚀 Status          : Learning • Building • Improving
